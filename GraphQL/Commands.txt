@@ -1,0 +1,4 @@
+﻿
+Update Model from DB:
+
+Scaffold-DbContext "Server=mssql.byteridge.com;Database=graphQL;User ID=graphQL;Password=graphQL;" Microsoft.EntityFrameworkCore.SqlServer -o DBModels -Force
